@@ -8,8 +8,8 @@ Pick a technology, add it to **Your Stack**, and remove it anytime. The list com
 
 ## Live site
 
-- Live: _add your Vercel / Netlify link here_
-- Repository: _add your GitHub repo link here_
+- Live: https://devstack-mu.vercel.app/
+- Repository: https://github.com/JuairahImam/devstack
 
 ---
 
